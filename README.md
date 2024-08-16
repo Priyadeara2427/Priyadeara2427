@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Priya Verma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Priyadeara2427&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/priya-verma-126904223/">Priya Verma</a> </h1>
