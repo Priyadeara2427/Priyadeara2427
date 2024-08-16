@@ -1,11 +1,32 @@
-<h1 align="center">Hi 👋, I'm Priya Verma</h1>
-<h3 align="center">A passionate Computer Science Engineering Student.</h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Priya Verma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Object Oriented Programming**
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/priya-verma-126904223/">Priya Verma</a> </h1>
 
-- 💬 Ask me about **python, C, java**
+<img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
-- 📫 How to reach me **pv328360@gmail.com**
+- 🌱 **Currently Studying in :** [SSN College of Engineering](https://www.ssn.edu.in/)<br>
+- 💬 Programming Language I know: JAVA, SQL, Python, C. <br>
+- 📫 Reach Me At: [pv328360@gmail.com](mailto:pv328360@gmail.com) <br>
+- ⚡ About Me: **A Computer Science Student who seeks to be Software Engineer.** <br>
+- 💎 Easy going + Hard work + Quick Adaptation + Critical Thinking + Honesty = ME <br>
+- 🌎 I Know English, Hindi. <br>
+- 📍 **Location:** India <br>
+<br>
+<br>
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  
+</div>
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +46,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyadeara2427&show_icons=true&locale=en" alt="priyadeara2427" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyadeara2427&" alt="priyadeara2427" /></p>
+
+<p align="center">
+  <b>Thank you for visiting my profile! 😊</b>
+</p>
