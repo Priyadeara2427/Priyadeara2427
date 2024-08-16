@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/priya-verma-126904223/">Priya Verma</a> </h1>
 
-<img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
+<img align="right" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Profile Image" width="300"/>
 
 - 🌱 **Currently Studying in :** [SSN College of Engineering](https://www.ssn.edu.in/)<br>
 - 💬 Programming Language I know: JAVA, SQL, Python, C. <br>
