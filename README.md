@@ -4,7 +4,6 @@
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/priya-verma-126904223/">Priya Verma</a> </h1>
 
-<img align="right" 
 
 - 🌱 **Currently Studying in :** [SSN College of Engineering](https://www.ssn.edu.in/)<br>
 - 💬 Programming Language I know: JAVA, SQL, Python, C. <br>
