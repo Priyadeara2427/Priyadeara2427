@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/priya-verma-126904223/">Priya Verma</a> </h1>
 
-<img align="right" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Profile Image" width="300"/>
+<img align="right" 
 
 - 🌱 **Currently Studying in :** [SSN College of Engineering](https://www.ssn.edu.in/)<br>
 - 💬 Programming Language I know: JAVA, SQL, Python, C. <br>
@@ -13,21 +13,7 @@
 - 💎 Easy going + Hard work + Quick Adaptation + Critical Thinking + Honesty = ME <br>
 - 🌎 I Know English, Hindi. <br>
 - 📍 **Location:** India <br>
-<br>
-<br>
-<h3 align="left">GSSOC(24) Badges 🪶: </h3>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src = "https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="100px" height="100px"/>
-  
-</div>
-<br>
-<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
